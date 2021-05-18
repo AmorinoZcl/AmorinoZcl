@@ -4,6 +4,6 @@ This website will mainly cover cybersecurity topics and perhaps some Powershell 
 
 ### Contact
 
-You can reach me through [Link](https://twitter.com/dyertfju)
+You can reach me through [Twitter](https://twitter.com/dyertfju)
 
 ![Image](https://i.imgur.com/ZMQKmg1.jpg)
