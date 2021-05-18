@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## AmorinoZcl
 
-You can use the [editor on GitHub](https://github.com/AmorinoZcl/AmorinoZcl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website will mainly cover cybersecurity topics and perhaps some Powershell and Python scripting I find useful and want to share. I am a security professional and learning new things daily regarding cybersecurity, that I sometimes like to share with you.
 
 ### Markdown
 
